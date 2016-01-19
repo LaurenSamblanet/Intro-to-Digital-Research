@@ -1,6 +1,7 @@
 ##Summary
 1. "do maps add anything, to our knowledge of literature?" (35)
 	* Thesis? Maps provide way of extracting order? See 6 maybe?
+	* I would argue that this is a sort of thesis - or at least a leading question into what Moretti is really exploring. We could just talk about this in 6. That might be better?
 2. Moretti's exploration of this question is through the use of village stories, specifically using Mary Mitford's *Our Village.*
 	    Figure 14, page 37, shows that "narrative space is not linear here, it is circular." the figure shows a center, the village, with two rings around it. 
 	          what are the implications of circular narrative space?
@@ -8,6 +9,7 @@
 	        "the older, 'centered' viewpoint of an unenclosed village" (39)
 	        the narrator goes on walks, always starting in her village. she walks out of the village and to her destination, and then returns to the village. she does this often, leaving the village and walking a new direction. these destinations create a circle around the village.
 	* Maybe we can just sum this up for time constraints? Mapping the location of the stories reveals a circular narrative that changes over time. One way that maps can show larger historical shifts within literature. 
+	* Alyssa, yes, I like your sumation better. 
 3. Figure 18, page 45, looks similar to Figure 14, but shows services offered in the village of Mitford, and in areas surrounding the village. The village contains services that are based on need. Places further from the village provide services that are either more frivolous or specialized.
 4. Moretti turns to *Annals of the Parish.* Again, the village, Dalmailing, has services and goods that are need-based. Needs that are more specialized move further away from the village – similarly to the village of Mitford. There are also novelties in Dalmailing, imported by the British Empire. With the second half of the book, the cotton-mill arrives, altering “the parish spatial coordinates.” (48) The worldly novelties are replaced by domestic ones.
 	social life is influence and altered by manufacturing – the village is re-centered.
@@ -20,10 +22,12 @@
 	Moretti returns to *Our Village* to discuss these forces. The walks that the narrator takes begin to lessen and become wider as the volumes of *Our Village* continue. What has caused this? Rick-burning seems to be the force that acts upon the village, thus lessening the number of walks and thus altering the geometric shape of the village. 
 9. Conclusion: social conflict (including state power and industrialism) act as a force upon literary form – force that shapes the form of an object.
 	* This seems to be his overall aim. Maps are what allow the effects of conflict to be visible although they cannot show conflict themselves. They need explanation and context. 
+	* I think we should place emphasis on this point that you've made, Alyssa. 
 
 ##what we think of this argument:
 * brief comparison to other readings of the day:
 	* Would you say maps require more interpretation than graphs? Are they more subjective? 
+	* I would say so. Graphs leave less room for interpretation, which also means that Moretti's argument feels more clear in Graphs.
 * this is far too much for five minutes. 
 	* Agreed. I think we should focus on the main argument and only summarize the details of his examples. 
 
