@@ -2,6 +2,7 @@
 1. "do maps add anything, to our knowledge of literature?" (35)
 	* Thesis? Maps provide way of extracting order? See 6 maybe?
 	* I would argue that this is a sort of thesis - or at least a leading question into what Moretti is really exploring. We could just talk about this in 6. That might be better?
+	* I think waiting until 6 would bury the lede in some ways since I agree that it is his main question of the chapter. I guess we have to decide if we want to summarize the chapter in order or restructure our summary a bit to emphasize only what we find important. 
 2. Moretti's exploration of this question is through the use of village stories, specifically using Mary Mitford's *Our Village.*
 	    Figure 14, page 37, shows that "narrative space is not linear here, it is circular." the figure shows a center, the village, with two rings around it. 
 	          what are the implications of circular narrative space?
@@ -30,5 +31,6 @@
 	* I would say so. Graphs leave less room for interpretation, which also means that Moretti's argument feels more clear in Graphs.
 * this is far too much for five minutes. 
 	* Agreed. I think we should focus on the main argument and only summarize the details of his examples. 
+* I just reread Peter's email about the assignment and it seems like he gives equal weight to the summary of key points and the comparison to other chapters. Does that mean we should try and talk roughly 2.5 minutes about each? That really doesn't seem like enough time. 
 
 
