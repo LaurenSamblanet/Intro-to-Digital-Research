@@ -3,6 +3,7 @@
 	* Thesis? Maps provide way of extracting order? See 6 maybe?
 	* I would argue that this is a sort of thesis - or at least a leading question into what Moretti is really exploring. We could just talk about this in 6. That might be better?
 	* I think waiting until 6 would bury the lede in some ways since I agree that it is his main question of the chapter. I guess we have to decide if we want to summarize the chapter in order or restructure our summary a bit to emphasize only what we find important. 
+	* Okay - do you think it makes more sense to restructure things?
 2. Moretti's exploration of this question is through the use of village stories, specifically using Mary Mitford's *Our Village.*
 	    Figure 14, page 37, shows that "narrative space is not linear here, it is circular." the figure shows a center, the village, with two rings around it. 
 	          what are the implications of circular narrative space?
@@ -32,5 +33,6 @@
 * this is far too much for five minutes. 
 	* Agreed. I think we should focus on the main argument and only summarize the details of his examples. 
 * I just reread Peter's email about the assignment and it seems like he gives equal weight to the summary of key points and the comparison to other chapters. Does that mean we should try and talk roughly 2.5 minutes about each? That really doesn't seem like enough time. 
+* It's a very short amount of time to work with. I think we could use a little over half (3 min) for the summary and 2 minutes for the comparison. Simply because this chapter has a lot going on - in order to compare it, it would be good to spend a lot of time on the key points.
 
 
